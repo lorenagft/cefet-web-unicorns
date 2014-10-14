@@ -1,0 +1,13 @@
+#cabecalho{
+	background:#6175f0;
+	color:white;		
+}
+
+#cabecalho>h1{
+	font-size:36px;
+}
+
+#cabecalho>h2{
+	font-size: 24px;
+	font-family: Times New Roman;
+}
