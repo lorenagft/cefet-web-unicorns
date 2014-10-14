@@ -1,3 +1,8 @@
+#hoje{
+	float:right;
+}
+
+
 #cabecalho{
 	background:#6175f0;
 	color:white;	
@@ -19,5 +24,20 @@
 #verdade img{
 	float:left;
 	width: 310px;
+	padding-right: 13px;
+	
+}
+
+#verdade h2{
+	color:black;
+	font-size: 24px;
+	font-family: Times New Roman;
+	
+}
+
+#verdade p{
+	font-size:14px;
+	font-family: Arial;
+	
 }
 	
