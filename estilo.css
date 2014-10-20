@@ -1,24 +1,19 @@
-#hoje{
-	float:right;
-}
-
-
 #cabecalho{
 	background:#6175f0;
 	color:white;	
-	padding-left:34px;
-	padding-top: 20px;
-	padding-bottom: 13px;
+	padding-left:34px;	
 }
 
 #cabecalho>h1{
 	font-size:36px;
 	font: "Kaushan Script";
+	padding-top: 20px;
 }
 
 #cabecalho>h2{
 	font-size: 24px;
 	font-family: Times New Roman;
+	padding-bottom: 13px;
 }
 
 #verdade img{
@@ -40,4 +35,133 @@
 	font-family: Arial;
 	
 }
+
+#verdade .referencia{
+	font-style: italic;
+}
+
+
+
+#musica>h2{
+	color: black;
+	font-size: 24px;
+	font-family: Times New Roman;
+	padding-left: 12px;
+
+}
+
+#musica>h2~p{
+
+}
+
+#musica>p~p{
+	padding-left: 34px;
+	
+}
+
+#musica>p~p~p{
+	padding-left: 0px;
+}
+
+#musica>p~p~p~p{
+	padding-left: 34px;
+}
+
+#musica>p~p~p~p~p{
+	padding-left: 0px;
+}
+
+#musica>p~p~p~p~p~p{
+	padding-left: 34px;
+}
+
+#musica>p~p~p~p~p~p~p{
+	padding-left: 0px;
+}
+
+#musica>p~p~p~p~p~p~p~p{
+	padding-left: 34px;
+}
+
+#musica>p~p~p~p~p~p~p~p~p{
+	padding-left: 0px;
+}
+
+#musica>p~p~p~p~p~p~p~p~p~p{
+	padding-left: 34px;
+}
+
+#musica>p~p~p~p~p~p~p~p~p~p~p{
+	padding-left: 0px;
+}
+
+#musica>p~p~p~p~p~p~p~p~p~p~p~p{
+	padding-left: 34px;
+}
+
+.destacado{
+	background-color: #c4caf3;
+	font-family: #004a79;
+
+}
+
+
+
+.destacado>p~p{
+	padding-left: 34px;
+
+
+}
+
+
+#hoje{
+	float:right;
+	width: 405px;
+	background-color: #f8cef7;
+	border-width: 1px;
+	border-color: #ff56fb;
+	border-style: solid; 
+	margin-right: 25px;
+	
+}
+
+
+#hoje>h2{
+	text-align: center;
+	padding-top: 20px;
+	color: black;
+	font-size: 24px;
+	font-family: Times New Roman;
+}
+
+
+
+#hoje>h2~h3{
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+#hoje>h2~p{
+	padding-right: 35px;
+	padding-left: 35px;
+	font-size: 18px;
+}
+
+#hoje>p~p~p{
+	padding-bottom: 30px;
+}
+
+.centralizar{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 112px;
+	height: 112px;
+}
+
+
+
+
+
+
 	
